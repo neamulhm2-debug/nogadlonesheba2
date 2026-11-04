@@ -1,0 +1,6 @@
+{
+  "name": "Nagad Loan & Wallet Experience",
+  "description": "Interactive Bangladeshi Nagad mobile financial service app with digital micro-loan application workflow, account selection, PIN verification, and instant disbursement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
